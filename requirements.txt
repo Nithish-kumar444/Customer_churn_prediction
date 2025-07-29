@@ -1,0 +1,23 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+pickle5
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Imbalanced Data Handling
+imbalanced-learn
+
+# Model Evaluation
+joblib
+
+# Web App Dashboard
+streamlit
+pyngrok
+
+# Optional (for better visuals/logging/debugging)
+plotly
