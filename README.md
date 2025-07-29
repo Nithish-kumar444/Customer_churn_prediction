@@ -148,10 +148,6 @@ customer_churn_dashboard/
 ├── README.md # This file
 └── requirements.txt # Dependencies
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Features
@@ -163,6 +159,9 @@ Edit
 - Expose the dashboard to the internet using Pyngrok
 
 ---
+## Snapshot of the dashboard
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/9a696b37-07ec-47a2-91e0-1eee84decdd4" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/40307ad6-e689-4ce8-b293-49375c39620c" />
 
 ## 💻 How to Run the Dashboard
 
